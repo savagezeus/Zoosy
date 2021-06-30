@@ -1,0 +1,13 @@
+<svg width="289" height="36" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path style="--darkreader-inline-fill:#181a1b;" id="svg_1" fill="white" d="m73.018,24c-6.4017,0 -7.7868,-6.7826 -9.0714,-9.4133l-5.9466,-14.5867l231,0l0,14.3783c0,6.5901 -4.292,8.9865 -10.729,8.9865c-59.469,0 -196.0957,0.6352 -205.253,0.6352z"/>
+  <path id="svg_3" fill="#FF4500" d="m57.1476,27.2247c2.094,4.4298 5.1059,8.7753 7.8524,8.7753l-52.5,0c-7.89286,0 -12.5,-5 -12.5,-14.5l0,-21.5l46.2416,0c2.7629,7.22917 8.8121,22.7949 10.906,27.2247z"/>
+  <text style="--darkreader-inline-fill:#e8e6e3;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="16" id="svg_5" y="16.158681" x="105.27844" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Zoosy's portfolio</text>
+ </g>
+</svg>
